@@ -1,0 +1,1 @@
+export const footerText = `Maybe some rights are reserved`

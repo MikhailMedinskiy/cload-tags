@@ -1,0 +1,14 @@
+.button{
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background-color: #3fa79d;
+    border: none;
+    padding: 10px 33px;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.3s;
+    &:hover{
+        background-color: darken(#3fa79d, 15%);
+    }
+}

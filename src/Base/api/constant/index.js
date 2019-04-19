@@ -1,0 +1,1 @@
+export const mainUrl = `https://gist.githubusercontent.com/gkoychev/55399c11581a17657447950f13edbe61/raw/367dc5833556c9f3abf030c6ce6bc384516d6fc5/data.json`
